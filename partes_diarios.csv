@@ -1,0 +1,22 @@
+fecha,oficio,trabajadores,horas_trabajadas,horas_previstas,unidad,rendimiento_m2,incidencias
+2024-03-01,Albañilería,8,64,64,Cerramiento fachada,45,0
+2024-03-01,Ferrallistas,4,32,32,Armado pilares,12,0
+2024-03-01,Peones,3,24,24,Limpieza y acopio,0,0
+2024-03-02,Albañilería,8,56,64,Cerramiento fachada,38,1
+2024-03-02,Ferrallistas,4,28,32,Armado pilares,9,1
+2024-03-02,Peones,3,24,24,Limpieza y acopio,0,0
+2024-03-04,Albañilería,8,64,64,Cerramiento fachada,47,0
+2024-03-04,Ferrallistas,4,32,32,Armado pilares,13,0
+2024-03-04,Peones,3,24,24,Limpieza y acopio,0,0
+2024-03-05,Albañilería,6,48,64,Cerramiento fachada,31,2
+2024-03-05,Ferrallistas,4,32,32,Armado pilares,11,0
+2024-03-05,Peones,2,16,24,Limpieza y acopio,0,1
+2024-03-06,Albañilería,8,64,64,Cerramiento fachada,46,0
+2024-03-06,Ferrallistas,4,32,32,Armado pilares,14,0
+2024-03-06,Peones,3,24,24,Limpieza y acopio,0,0
+2024-03-07,Albañilería,8,48,64,Cerramiento fachada,29,3
+2024-03-07,Ferrallistas,3,24,32,Armado pilares,8,1
+2024-03-07,Peones,3,24,24,Limpieza y acopio,0,0
+2024-03-08,Albañilería,8,64,64,Cerramiento fachada,48,0
+2024-03-08,Ferrallistas,4,32,32,Armado pilares,15,0
+2024-03-08,Peones,3,24,24,Limpieza y acopio,0,0
